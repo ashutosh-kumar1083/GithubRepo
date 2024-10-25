@@ -1,0 +1,7 @@
+In the land of <adjective> <place>, a wizard named <name> and their pet <animal> <pet_name> set out to find a magical <object>. They packed some <food>, a <noun>, and set off.
+
+After <number> days, they reached a <adjective> cave where the <object> was hidden, guarded by a <creature>. To get it, <name> had to solve the creature’s riddle: "What has <number> legs in the morning, <number> legs at noon, and <number> legs in the evening?"
+
+<name> thought hard and finally answered correctly. The creature smiled, handed over the <object>, and the heroes returned home to <place> to celebrate.
+
+The End.
